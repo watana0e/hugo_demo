@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://watana0e.github.io/hugo_demo/</loc>
+    <lastmod>2022-12-03T21:51:47+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo_demo/posts/hellw_world/</loc>
+    <lastmod>2022-12-03T21:51:47+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo_demo/posts/</loc>
+    <lastmod>2022-12-03T21:51:47+09:00</lastmod>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo_demo/categories/</loc>
+  </url><url>
+    <loc>https://watana0e.github.io/hugo_demo/tags/</loc>
+  </url>
+</urlset>

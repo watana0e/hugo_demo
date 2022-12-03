@@ -1,8 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://watana0e.github.io/hugo_demo/'
 languageCode = 'en-us'
 title = 'Demo33 Hugo Site'
 
 theme = "ananke"
+
+publishDir = "docs"
 
 [Params]
  Subtitle = "テスト用サイト"

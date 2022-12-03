@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo33 Hugo Site</title>
+    <link>https://watana0e.github.io/hugo_demo/</link>
+    <description>Recent content on Demo33 Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Dec 2022 21:51:47 +0900</lastBuildDate><atom:link href="https://watana0e.github.io/hugo_demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hellw_World</title>
+      <link>https://watana0e.github.io/hugo_demo/posts/hellw_world/</link>
+      <pubDate>Sat, 03 Dec 2022 21:51:47 +0900</pubDate>
+      
+      <guid>https://watana0e.github.io/hugo_demo/posts/hellw_world/</guid>
+      <description>&lt;h2 id=&#34;hello-world-&#34;&gt;Hello World !&lt;/h2&gt;
+&lt;p&gt;こんにちは！  &lt;strong&gt;世界よ！&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

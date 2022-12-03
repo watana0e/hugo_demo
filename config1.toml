@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Demo33 New Hugo Site'
+
+theme = "m10c"
+
+[Params]
+    Subtitle = 'aaaaaaa'

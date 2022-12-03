@@ -1,3 +1,8 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Demo33 Hugo Site'
+
+theme = "ananke"
+
+[Params]
+ Subtitle = "テスト用サイト"
